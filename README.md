@@ -12,8 +12,8 @@ Full-stack job application tracking system with AI-assisted tools, built using N
 
 ## Live Demo
 
-Frontend: https://job-tracker-ai.vercel.app  
-Backend API: https://job-tracker-ai-rryn.onrender.com  
+Frontend: https://job-tracker-ai-jade.vercel.app/ 
+Backend API: https://job-tracker-ai-rryn.onrender.com/health 
 
 ---
 
